@@ -1,6 +1,8 @@
 [
   {
-    "repository": "android_kernel_lge_bullhead",
-    "target_path": "kernel/lge/bullhead"
+	"remote": "github",
+    "repository": "CyanogenMod/android_kernel_lge_bullhead",
+    "target_path": "kernel/lge/bullhead",
+	"revision": "cm-13.0"
   }
 ]
